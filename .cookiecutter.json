@@ -1,0 +1,11 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Zane Dufour",
+  "email": "zane@znd4.me",
+  "friendly_name": "typer-make",
+  "github_user": "zdog234",
+  "license": "MIT",
+  "package_name": "typer_make",
+  "project_name": "typer-make",
+  "version": "0.1.0"
+}
