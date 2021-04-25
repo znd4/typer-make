@@ -46,6 +46,7 @@ pre-commit-hooks = "^3.4.0"
 sphinx-rtd-theme = "^0.5.2"
 sphinx-click = "^2.7.1"
 Pygments = "^2.8.1"
+flakehell = "^0.9.0"
 
 [tool.poetry.scripts]
 typer-make = "typer_make.__main__:main"
